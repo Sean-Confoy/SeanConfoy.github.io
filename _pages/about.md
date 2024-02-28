@@ -1,12 +1,12 @@
 ---
 
-title: "About Catherine Knox"
+title: "About Sean Confoy"
 
 ---
 
 ## Education
 
-Catherine Knox is a mechanical engineering student interested in aeropsace and nuclear technology. She holds experience in additive manufacturing, machining, and project management. 
+Sean Confoy is a mechanical engineering student interested in aeropsace and nuclear technology. She holds experience in additive manufacturing, machining, and project management. 
 
 * Vanderbilt University 
   * Pursuing a BE in Mechanical Engineering
@@ -24,7 +24,7 @@ Catherine can operate a number of 3D printers as well as machining tools. Cather
 
 ## Proffesional Skills
 
-Catherine also has experience managing engineering organizations. She holds the role of Chief People Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Some of her specific proffesional skills include:
+Sean also has experience managing engineering organizations. She holds the role of Chief People Officer and Advanced Concept System Leader in the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/). She also runs her own tutoring business named [Cat's Tutoring](https://catstutoring.squarespace.com/) in which she tutors students at local Nashville High Schools and helps to set up other Vanderbilt students with a tutoring job. Some of her specific proffesional skills include:
 
 * Organizational Management
 * Microsoft Suite
